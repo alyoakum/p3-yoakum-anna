@@ -38,14 +38,35 @@ p {
   padding: 73px;
 }
 
+#box1{
+  background-color: #009FDE;
+}
+
+#box2{
+  background-color: #BF061C;
+}
+
+#box3{
+  background-color: #D8C100;
+}
+
+#box4{
+  background-color: #20A039;
+}
+
 #numbers {
   display: none;
 }
 
-#numbers2 {
+.box3 {
+  color: white;
+}
+
+.hide {
   display: none;
 }
 
 .new-color {
   background-color: #FFFFFF;
   transition: background-color 1000ms;
+}
