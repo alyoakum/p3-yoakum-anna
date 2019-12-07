@@ -37,3 +37,15 @@ header {
 p {
   padding: 73px;
 }
+
+#numbers {
+  display: none;
+}
+
+#numbers2 {
+  display: none;
+}
+
+.new-color {
+  background-color: #FFFFFF;
+  transition: background-color 1000ms;
